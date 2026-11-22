@@ -1,0 +1,15 @@
+1. stiahnut spark
+2. extrahovat data cez spark
+3. stiahnut dump
+4. najst knihy z dumpu
+5. joinut dump
+
+Questions:
+- spark image a python a pyspark
+- atributy - infobox
+- kolko zaznamov - celu? alebo len cast?
+- nazov
+
+
+
+<title>	<Category>
